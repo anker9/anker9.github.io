@@ -19,8 +19,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Главная и единственная страница",
+        "meta_descr": "Сайт слеплен из говна и палок минут за 20\nДа, мне нечего делать было.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
