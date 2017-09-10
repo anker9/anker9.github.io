@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.2.4",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.2.4",
     "favicon": "",
     "noImageResize": "",
@@ -251,7 +251,7 @@
               "active": true
             }
           },
-          "text": "Серьезно, &nbsp;на этом все. <a href=\"#top\">На верх страницы</a>",
+          "text": "Серьезно, &nbsp;на этом все.&nbsp;",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -278,13 +278,19 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Слеплено из говна и палок кривыми культяпками НАА",
+          "text": "<i><b><a href=\"#top\">Подняться вверх</a></b></i><br>Copyright (c) 2017 Слеплено из говна и палок кривыми культяпками НАА.&nbsp;",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-j"
+          "_anchor": "footer1-j",
+          "_styles": {
+            "B": {
+              "font-size": "30px",
+              "color": "#5bc0de"
+            }
+          }
         }
       ]
     }
