@@ -251,13 +251,19 @@
               "active": true
             }
           },
-          "text": "Серьезно, &nbsp;на этом все.",
+          "text": "Серьезно, &nbsp;на этом все. <a href=\"#top\">На верх страницы</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-i"
+          "_anchor": "image1-i",
+          "_styles": {
+            "DIV": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
